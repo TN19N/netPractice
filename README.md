@@ -38,3 +38,13 @@ Summary: This document is a System Administration related exercise.
 ### we dide as the last tow levels but these time we have what cold a switch it's a divise that connect multiple devises to creat a large local area networl (LAN) and that devise operates in layer 2 becouse he is just work with MAC addresses 
 
 </details>
+
+<summary>Level_4</summary>
+<p>
+	<img src="https://raw.githubusercontent.com/Mustapha-Nawawi-T/netPractice/main/photos/Level_4.png" alt="image Level_2">
+</p>
+
+### in these level we descovered what called a router we use to connect multiple (LAN) to creat a Wide area network (WAN) and thats device operates in layer 3 becouse he work with ip address
+
+## we shode not give the gate waye an ip thats arledy taken from an interface in same router
+</details>
