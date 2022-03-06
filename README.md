@@ -24,4 +24,6 @@ Summary: This document is a System Administration related exercise.
 
 ### in these level we did like level_1 but we tested ip addresses like 127.0.0.1 (we can't use these addresses (127.0.0.0) to (127.255.255) becouse the are loop bach addresses)
 
+### and also we work we the last maske we can use its (/30) it's same as (255.255.252) that we gave use just tow addresses that we need 0.0.0.1 and 0.0.0.2
+
 </details>
