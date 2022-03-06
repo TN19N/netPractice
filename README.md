@@ -27,3 +27,14 @@ Summary: This document is a System Administration related exercise.
 ### and also we work we the last maske we can use its (/30) it's same as (255.255.252) that we gave use just tow addresses that we need 0.0.0.1 and 0.0.0.2
 
 </details>
+
+<details>
+
+<summary>Level_3</summary>
+<p>
+	<img src="https://raw.githubusercontent.com/Mustapha-Nawawi-T/netPractice/main/photos/Level_3.png" alt="image Level_2">
+</p>
+
+### we dide as the last tow levels but these time we have what cold a switch it's a divise that connect multiple devises to creat a large local area networl (LAN) and that devise operates in layer 2 becouse he is just work with MAC addresses 
+
+</details>
