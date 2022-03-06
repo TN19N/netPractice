@@ -73,3 +73,14 @@ Summary: This document is a System Administration related exercise.
 ### in these levle we whant to connect with a server (8.8.8.8 DNS server of google) but we need to confige the routing table of the server to find hes way to use so we dont use default destanation but instad we put the subnet mask of our network (104.88.18.128/25) we can also (0.0.0.0/1) but the importent stuff is our network shod be part of that subnet mask so if we do ex (104.88.18.128/26) its well not work becouse our network not part of it
 
 </details>
+
+<details>
+
+<summary>Level_7</summary>
+<p>
+	<img src="https://raw.githubusercontent.com/Mustapha-Nawawi-T/netPractice/main/photos/Level_7.png" alt="image Level_2">
+</p>
+
+### these level its a simple one ,  in these levle we just applay what we learned in last few levels , we have just tow routers to pass to rech A from C or C from A so we allwes do 2 hops to make cummunicatione between A and C
+
+</details>
