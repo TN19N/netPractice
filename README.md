@@ -39,6 +39,7 @@ Summary: This document is a System Administration related exercise.
 
 </details>
 
+<details>
 <summary>Level_4</summary>
 <p>
 	<img src="https://raw.githubusercontent.com/Mustapha-Nawawi-T/netPractice/main/photos/Level_4.png" alt="image Level_2">
