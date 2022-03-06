@@ -40,6 +40,7 @@ Summary: This document is a System Administration related exercise.
 </details>
 
 <details>
+
 <summary>Level_4</summary>
 <p>
 	<img src="https://raw.githubusercontent.com/Mustapha-Nawawi-T/netPractice/main/photos/Level_4.png" alt="image Level_2">
@@ -48,4 +49,16 @@ Summary: This document is a System Administration related exercise.
 ### in these level we descovered what called a router we use to connect multiple (LAN) to creat a Wide area network (WAN) and thats device operates in layer 3 becouse he work with ip address
 
 ## we shode not give the gate waye an ip thats arledy taken from an interface in same router
+
+</details>
+
+<details>
+
+<summary>Level_5</summary>
+<p>
+	<img src="https://raw.githubusercontent.com/Mustapha-Nawawi-T/netPractice/main/photos/Level_5.png" alt="image Level_2">
+</p>
+
+### in these level we worked with routing table its useful to deside were to send a package for example we confige what is the destanation and the nexte hop in these case we use default destanation its workes if we have just one way to sande samthing (routers have tow entarface) or we need to send some thene to unknowk destanation like internet thats whates we dide in these case
+
 </details>
