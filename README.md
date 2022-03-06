@@ -62,3 +62,14 @@ Summary: This document is a System Administration related exercise.
 ### in these level we worked with routing table its useful to deside were to send a package for example we confige what is the destanation and the nexte hop in these case we use default destanation its workes if we have just one way to sande samthing (routers have tow entarface) or we need to send some thene to unknowk destanation like internet thats whates we dide in these case
 
 </details>
+
+<details>
+
+<summary>Level_6</summary>
+<p>
+	<img src="https://raw.githubusercontent.com/Mustapha-Nawawi-T/netPractice/main/photos/Level_6.png" alt="image Level_2">
+</p>
+
+### in these levle we whant to connect with a server (8.8.8.8 DNS server of google) but we need to confige the routing table of the server to find hes way to use so we dont use default destanation but instad we put the subnet mask of our network (104.88.18.128/25) we can also (0.0.0.0/1) but the importent stuff is our network shod be part of that subnet mask so if we do ex (104.88.18.128/26) its well not work becouse our network not part of it
+
+</details>
