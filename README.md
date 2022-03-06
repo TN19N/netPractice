@@ -94,6 +94,6 @@ Summary: This document is a System Administration related exercise.
 
 ### in these level we have to connect 2 network, we whant to connect theme with the internit, if we look at the routing table of internet 1 (157.111.65.0/26) thats mean that internit can only send to networks that in these subnet mask to solve these we devided that subnet mask to 4 smaller networks by adding 2 bits to the mask (/26 + 2 --> /28), we use 2 network of it and thats how internet can connect to differnt networks
 
-### PS: the network that coonnect the 2 enterfaces of the router (yes it is als a network) need to be included also in the subnet mask of the internit   
+### PS: the network that coonnect the 2 enterfaces of the router (yes it is also a network) need to be included also in the subnet mask of the internit   
 
 </details>
