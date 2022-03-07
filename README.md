@@ -106,3 +106,14 @@ Summary: This document is a System Administration related exercise.
 ### the same as level before but now we have three destanations from internet to our networks so we are free to set three differnt ip network for our networks 
 
 </details>
+
+<details>
+
+<summary>Level_10</summary>
+<p>
+	<img src="https://raw.githubusercontent.com/Mustapha-Nawawi-T/netPractice/main/photos/Level_10.png" alt="image Level_10">
+</p>
+
+### these is the same as the level before but we have just one distination in internet 1 so all our networks must be in that subnet mask (the distination)
+
+</details>
